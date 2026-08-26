@@ -1,0 +1,102 @@
+Kostenstelle;Kostenstellenbezeichnung;Kostenart;Kostenartbezeichnung;Periode;Buchungsdatum;Betrag;Währung
+0004733;Technik & Produktion;620200;Sachkosten;07.2026;21.07.2026;14.198,48;EUR
+0004755;Verwaltung & Controlling;600100;Personalkosten;09.2026;07.09.2026;2.982,14-;EUR
+0004744;IT & Digitalisierung;640400;Lizenzkosten;02.2026;08.02.2026;11.097,70;EUR
+0004711;Programmdirektion Hörfunk;620200;Sachkosten;11.2026;21.11.2026;9.985,38;EUR
+0004711;Programmdirektion Hörfunk;650500;IT-Kosten;10.2026;13.10.2026;10.355,00;EUR
+0004722;Programmdirektion Fernsehen;630300;Produktionskosten;07.2026;05.07.2026;8.758,47;EUR
+0004755;Verwaltung & Controlling;630300;Produktionskosten;09.2026;27.09.2026;7.323,61;EUR
+0004722;Programmdirektion Fernsehen;630300;Produktionskosten;02.2026;18.02.2026;6.514,35;EUR
+0004755;Verwaltung & Controlling;600100;Personalkosten;10.2026;07.10.2026;3.689,73;EUR
+0004744;IT & Digitalisierung;650500;IT-Kosten;08.2026;12.08.2026;8.097,12;EUR
+0004722;Programmdirektion Fernsehen;620200;Sachkosten;02.2026;19.02.2026;6.729,43;EUR
+0004744;IT & Digitalisierung;630300;Produktionskosten;10.2026;03.10.2026;11.889,68;EUR
+0004744;IT & Digitalisierung;620200;Sachkosten;06.2026;05.06.2026;11.345,74;EUR
+0004711;Programmdirektion Hörfunk;650500;IT-Kosten;10.2026;26.10.2026;6.508,79;EUR
+0004733;Technik & Produktion;630300;Produktionskosten;12.2026;12.12.2026;4.177,33;EUR
+0004711;Programmdirektion Hörfunk;630300;Produktionskosten;08.2026;23.08.2026;5.424,18;EUR
+0004711;Programmdirektion Hörfunk;630300;Produktionskosten;11.2026;19.11.2026;14.495,88;EUR
+0004744;IT & Digitalisierung;630300;Produktionskosten;01.2026;15.01.2026;7.718,04;EUR
+0004755;Verwaltung & Controlling;600100;Personalkosten;08.2026;02.08.2026;8.571,76;EUR
+0004744;IT & Digitalisierung;640400;Lizenzkosten;08.2026;03.08.2026;10.824,12;EUR
+0004744;IT & Digitalisierung;650500;IT-Kosten;05.2026;05.05.2026;10.948,06;EUR
+0004744;IT & Digitalisierung;630300;Produktionskosten;11.2026;13.11.2026;1.660,75;EUR
+0004722;Programmdirektion Fernsehen;600100;Personalkosten;03.2026;05.03.2026;8.288,63;EUR
+0004755;Verwaltung & Controlling;620200;Sachkosten;05.2026;10.05.2026;3.160,52-;EUR
+0004744;IT & Digitalisierung;650500;IT-Kosten;06.2026;20.06.2026;83,26;EUR
+0004755;Verwaltung & Controlling;650500;IT-Kosten;11.2026;22.11.2026;4.494,62;EUR
+0004744;IT & Digitalisierung;650500;IT-Kosten;07.2026;13.07.2026;6.682,32;EUR
+0004711;Programmdirektion Hörfunk;620200;Sachkosten;02.2026;07.02.2026;8.970,33;EUR
+0004711;Programmdirektion Hörfunk;630300;Produktionskosten;10.2026;02.10.2026;11.622,31;EUR
+0004733;Technik & Produktion;650500;IT-Kosten;01.2026;03.01.2026;10.715,43;EUR
+0004755;Verwaltung & Controlling;640400;Lizenzkosten;03.2026;21.03.2026;7.954,13;EUR
+0004711;Programmdirektion Hörfunk;600100;Personalkosten;08.2026;15.08.2026;11.233,25;EUR
+0004733;Technik & Produktion;600100;Personalkosten;03.2026;04.03.2026;7.988,22;EUR
+0004722;Programmdirektion Fernsehen;650500;IT-Kosten;01.2026;07.01.2026;2.252,28;EUR
+0004755;Verwaltung & Controlling;630300;Produktionskosten;03.2026;23.03.2026;7.210,42;EUR
+0004711;Programmdirektion Hörfunk;630300;Produktionskosten;09.2026;12.09.2026;7.780,40;EUR
+0004733;Technik & Produktion;620200;Sachkosten;09.2026;18.09.2026;8.568,31;EUR
+0004722;Programmdirektion Fernsehen;620200;Sachkosten;07.2026;24.07.2026;4.921,61;EUR
+0004722;Programmdirektion Fernsehen;650500;IT-Kosten;08.2026;12.08.2026;6.740,57;EUR
+0004744;IT & Digitalisierung;630300;Produktionskosten;04.2026;23.04.2026;2.501,81-;EUR
+0004733;Technik & Produktion;640400;Lizenzkosten;12.2026;12.12.2026;11.201,13;EUR
+0004722;Programmdirektion Fernsehen;640400;Lizenzkosten;04.2026;11.04.2026;7.070,00;EUR
+0004755;Verwaltung & Controlling;650500;IT-Kosten;01.2026;16.01.2026;10.704,91;EUR
+0004711;Programmdirektion Hörfunk;640400;Lizenzkosten;12.2026;25.12.2026;6.264,26;EUR
+0004722;Programmdirektion Fernsehen;640400;Lizenzkosten;11.2026;11.11.2026;15.234,77;EUR
+0004744;IT & Digitalisierung;640400;Lizenzkosten;12.2026;03.12.2026;12.386,70;EUR
+0004722;Programmdirektion Fernsehen;620200;Sachkosten;01.2026;05.01.2026;4.703,76;EUR
+0004755;Verwaltung & Controlling;650500;IT-Kosten;08.2026;22.08.2026;5.884,47;EUR
+0004722;Programmdirektion Fernsehen;650500;IT-Kosten;09.2026;05.09.2026;14.216,56;EUR
+0004711;Programmdirektion Hörfunk;650500;IT-Kosten;12.2026;05.12.2026;8.840,82;EUR
+0004722;Programmdirektion Fernsehen;620200;Sachkosten;01.2026;09.01.2026;8.956,57;EUR
+0004733;Technik & Produktion;630300;Produktionskosten;09.2026;14.09.2026;12.015,48;EUR
+0004711;Programmdirektion Hörfunk;630300;Produktionskosten;08.2026;22.08.2026;1.434,01;EUR
+0004755;Verwaltung & Controlling;620200;Sachkosten;09.2026;05.09.2026;4.208,28;EUR
+0004711;Programmdirektion Hörfunk;640400;Lizenzkosten;03.2026;20.03.2026;14.269,43;EUR
+0004744;IT & Digitalisierung;650500;IT-Kosten;12.2026;04.12.2026;8.154,94;EUR
+0004733;Technik & Produktion;650500;IT-Kosten;09.2026;18.09.2026;1.977,90;EUR
+0004711;Programmdirektion Hörfunk;620200;Sachkosten;04.2026;09.04.2026;2.599,60-;EUR
+0004711;Programmdirektion Hörfunk;650500;IT-Kosten;08.2026;18.08.2026;4.590,62-;EUR
+0004733;Technik & Produktion;650500;IT-Kosten;09.2026;20.09.2026;9.291,71;EUR
+0004733;Technik & Produktion;640400;Lizenzkosten;09.2026;18.09.2026;9.469,60;EUR
+0004755;Verwaltung & Controlling;630300;Produktionskosten;09.2026;07.09.2026;4.100,61;EUR
+0004722;Programmdirektion Fernsehen;640400;Lizenzkosten;02.2026;13.02.2026;6.730,48;EUR
+0004711;Programmdirektion Hörfunk;620200;Sachkosten;11.2026;10.11.2026;8.483,19;EUR
+0004722;Programmdirektion Fernsehen;630300;Produktionskosten;03.2026;09.03.2026;14.791,04;EUR
+0004711;Programmdirektion Hörfunk;640400;Lizenzkosten;08.2026;06.08.2026;1.846,54;EUR
+0004722;Programmdirektion Fernsehen;620200;Sachkosten;12.2026;14.12.2026;11.557,21;EUR
+0004733;Technik & Produktion;630300;Produktionskosten;02.2026;24.02.2026;7.867,46;EUR
+0004733;Technik & Produktion;650500;IT-Kosten;08.2026;15.08.2026;6.999,84;EUR
+0004733;Technik & Produktion;650500;IT-Kosten;02.2026;04.02.2026;4.700,93;EUR
+0004722;Programmdirektion Fernsehen;600100;Personalkosten;02.2026;09.02.2026;6.955,27;EUR
+0004722;Programmdirektion Fernsehen;640400;Lizenzkosten;11.2026;27.11.2026;15.537,34;EUR
+0004744;IT & Digitalisierung;620200;Sachkosten;09.2026;17.09.2026;3.091,60;EUR
+0004711;Programmdirektion Hörfunk;620200;Sachkosten;07.2026;03.07.2026;5.667,83;EUR
+0004711;Programmdirektion Hörfunk;600100;Personalkosten;05.2026;03.05.2026;6.069,17;EUR
+0004711;Programmdirektion Hörfunk;640400;Lizenzkosten;01.2026;11.01.2026;6.439,57;EUR
+0004744;IT & Digitalisierung;630300;Produktionskosten;10.2026;05.10.2026;13.301,98;EUR
+0004722;Programmdirektion Fernsehen;630300;Produktionskosten;01.2026;06.01.2026;9.475,76;EUR
+0004733;Technik & Produktion;630300;Produktionskosten;09.2026;25.09.2026;9.040,73;EUR
+0004733;Technik & Produktion;630300;Produktionskosten;01.2026;09.01.2026;3.497,05-;EUR
+0004711;Programmdirektion Hörfunk;650500;IT-Kosten;09.2026;07.09.2026;5.382,30;EUR
+0004744;IT & Digitalisierung;640400;Lizenzkosten;09.2026;27.09.2026;7.765,24;EUR
+0004755;Verwaltung & Controlling;630300;Produktionskosten;12.2026;07.12.2026;11.186,86;EUR
+0004722;Programmdirektion Fernsehen;640400;Lizenzkosten;06.2026;02.06.2026;7.646,96;EUR
+0004711;Programmdirektion Hörfunk;600100;Personalkosten;11.2026;24.11.2026;3.211,81-;EUR
+0004744;IT & Digitalisierung;650500;IT-Kosten;11.2026;10.11.2026;5.454,19;EUR
+0004733;Technik & Produktion;600100;Personalkosten;08.2026;06.08.2026;10.087,20;EUR
+0004733;Technik & Produktion;650500;IT-Kosten;06.2026;08.06.2026;3.353,67-;EUR
+0004733;Technik & Produktion;620200;Sachkosten;06.2026;06.06.2026;11.431,58;EUR
+0004755;Verwaltung & Controlling;620200;Sachkosten;04.2026;17.04.2026;8.023,05;EUR
+0004711;Programmdirektion Hörfunk;630300;Produktionskosten;02.2026;05.02.2026;2.152,72-;EUR
+0004733;Technik & Produktion;620200;Sachkosten;02.2026;19.02.2026;8.602,74;EUR
+0004722;Programmdirektion Fernsehen;650500;IT-Kosten;07.2026;25.07.2026;3.340,54;EUR
+0004755;Verwaltung & Controlling;620200;Sachkosten;01.2026;27.01.2026;16.985,75;EUR
+0004755;Verwaltung & Controlling;640400;Lizenzkosten;12.2026;23.12.2026;8.730,53;EUR
+0004755;Verwaltung & Controlling;650500;IT-Kosten;01.2026;27.01.2026;6.227,50;EUR
+0004722;Programmdirektion Fernsehen;600100;Personalkosten;01.2026;02.01.2026;10.219,04;EUR
+0004744;IT & Digitalisierung;650500;IT-Kosten;01.2026;21.01.2026;3.137,11-;EUR
+0004755;Verwaltung & Controlling;620200;Sachkosten;08.2026;09.08.2026;14.255,70;EUR
+0004755;Verwaltung & Controlling;650500;IT-Kosten;02.2026;22.02.2026;8.130,29;EUR
+Summe;;;;;;717.043,96;EUR
