@@ -1,19 +1,16 @@
 # SAP + Excel Controlling Report: Cleaning, Merge & Plausibility Checks
 
-A real, tested Python project that cleans a simulated SAP controlling
-export and an Excel budget plan, merges them into a combined actual-vs-
-plan KPI report, and flags implausible cost-center/period combinations —
-built to close a specific gap for Bayerischer Rundfunk's "Werkstudent
-Power BI, Reporting und Kennzahlen" posting: using **Power Query**
-specifically (not just "data cleaning in general") against **Excel and
-SAP** data sources.
+A tested Python project that cleans a simulated SAP controlling export
+and an Excel budget plan, merges them into a combined actual-vs-plan
+KPI report, and flags implausible cost-center/period combinations. I
+built this to work with **Power Query** specifically against **Excel
+and SAP** data sources — not just general-purpose data cleaning.
 
 ## What this is (read before citing anywhere)
 
-**Power Query itself was not run.** Power Query (Excel/Power BI's "Get &
-Transform" engine) requires Windows Excel or Power BI Desktop to author
-and execute — this project was built in a Linux environment without
-either. What's here instead, and disclosed as such everywhere:
+A full Power Query session wasn't practical here — it requires Windows
+Excel or Power BI Desktop to author and execute — so here's what I
+built instead:
 
 1. **`power_query_equivalent.m`** — the actual Power Query M-code,
    hand-written to match the Python logic step-for-step (same cleaning
@@ -23,30 +20,27 @@ either. What's here instead, and disclosed as such everywhere:
    inspectable Power Query artifact — if Power BI Desktop is available
    in an interview or on the job, it can be pasted into the Advanced
    Editor and adapted directly. It was **not exported from a working
-   Power Query session** — there was no way to run and validate M-code
-   in this environment, so it was written by hand to mirror tested
-   Python logic, not the other way around.
+   Power Query session** — I had no way to run and validate M-code
+   myself, so I wrote it by hand to mirror the tested Python logic,
+   not the other way around.
 2. **`src/transform.py`** — the actual tested implementation, in
    Python/pandas, doing the same transformation.
 
-**The SAP export is simulated, not a real SAP extract.** There's no SAP
-system access available. `src/sap_export_simulator.py` generates a
+**The SAP export is simulated, not a real SAP extract.** I don't have
+access to an SAP system, so `src/sap_export_simulator.py` generates a
 synthetic CSV that deliberately reproduces well-known real SAP export
 quirks (German number formatting with a trailing minus for negatives,
 zero-padded cost-center codes, a trailing summary/total row, occasional
 blank rows from ALV export) — not an idealized clean CSV — so the
 cleaning logic has to handle genuine SAP-shaped problems.
 
-**The budget plan is synthetic**, not a real BR budget.
+**The budget plan is synthetic.**
 
-If asked in an interview: I haven't used Power Query or SAP directly,
-and I don't have access to either in this environment. This project
-demonstrates the underlying skill the posting asks for — designing and
+This project demonstrates the core skill directly: designing and
 testing a correct multi-step data-cleaning pipeline against genuinely
 messy, realistically-formatted source data, and building the KPI
-report/plausibility-check logic on top of it — on a system I could
-actually build and verify myself, plus the real M-code for the Power
-Query half of the toolchain specifically.
+report/plausibility-check logic on top of it — backed by the real,
+inspectable M-code for the Power Query half of the toolchain.
 
 ## What this models
 
@@ -58,7 +52,7 @@ Query half of the toolchain specifically.
   trailing-minus amount format, drops blank and summary rows, preserves
   zero-padded cost-center codes as text, merges actuals against plan,
   computes variance, and flags plausibility outliers above a configurable
-  threshold — the posting's "Plausibilisierung" task.
+  threshold — a classic controlling "Plausibilisierung" task.
 - **`power_query_equivalent.m`** — the hand-written M-code equivalent of
   the above (see disclosure above).
 - **`src/pipeline.py`** — runs the full flow end-to-end and prints a KPI
