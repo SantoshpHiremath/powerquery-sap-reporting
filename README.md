@@ -17,12 +17,9 @@ built instead:
    steps, same order: promote headers, drop blank rows, drop the
    trailing summary row, parse German/SAP-formatted amounts including
    the trailing-minus convention, fix column types). This is a real,
-   inspectable Power Query artifact — if Power BI Desktop is available
-   in an interview or on the job, it can be pasted into the Advanced
-   Editor and adapted directly. It was **not exported from a working
-   Power Query session** — I had no way to run and validate M-code
-   myself, so I wrote it by hand to mirror the tested Python logic,
-   not the other way around.
+   inspectable Power Query artifact, ready to paste into the Advanced
+   Editor in Power BI Desktop. I wrote it by hand to mirror the tested
+   Python logic, since I had no way to run and validate M-code myself.
 2. **`src/transform.py`** — the actual tested implementation, in
    Python/pandas, doing the same transformation.
 
